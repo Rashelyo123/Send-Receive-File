@@ -1,0 +1,11 @@
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\bin\Debug\clientFile.exe.config
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\bin\Debug\clientFile.exe
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\bin\Debug\clientFile.pdb
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\obj\Debug\clientFile.csproj.AssemblyReference.cache
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\obj\Debug\clientFile.Form1.resources
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\obj\Debug\clientFile.Properties.Resources.resources
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\obj\Debug\clientFile.csproj.GenerateResource.cache
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\obj\Debug\clientFile.csproj.CoreCompileInputs.cache
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\obj\Debug\clientFile.exe
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\obj\Debug\clientFile.pdb
+C:\Users\tdrra\Documents\PraktikumJaringanSemester5\clientFile\clientFile\obj\Debug\clientFile.exe.config
